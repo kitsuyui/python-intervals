@@ -1,5 +1,16 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "pip_requirements": {
+    "packageRules": [
+      {
+        "groupName": "mypy packages",
+        "packageNames": [
+          "mypy",
+          "typed-ast"
+        ]
+      }
+    ]
+  }
 }
