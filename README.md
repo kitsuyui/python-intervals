@@ -14,4 +14,4 @@ Not yet.
 
 ## LICENSE
 
-The 3-Clause BSD License. See also LISENCE file.
+The 3-Clause BSD License. See also LICENSE file.
