@@ -6,4 +6,4 @@
 #
 mypy==0.991
 typed-ast==1.5.4          # via mypy
-typing-extensions==4.3.0
+typing-extensions==4.4.0
